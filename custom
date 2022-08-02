@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TF1_logo_2013.svg" group-title="Custom",TF1
 https://s13.tntendirect.com/tf1/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/France_2_2018.svg" group-title="Custom",France2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/France_2_2018.svg" group-title="Custom",France 2
 https://s13.tntendirect.com/france2/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="Custom",KAN 11
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="Custom",KESHET 12
 https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index_2200.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
+#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="Custom",RESHET 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
